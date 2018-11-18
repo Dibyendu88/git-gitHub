@@ -1,2 +1,2 @@
 This is testing GitHub
-This is a new change.
+This is a new change. This is going to be different.
